@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
+      <h1>This is a Big Title</h1>
       <Image
         src={HomepageHeroImage}
         layout="fill"
